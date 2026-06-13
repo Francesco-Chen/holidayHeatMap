@@ -14,7 +14,8 @@ A lightweight, visually appealing web application to manage and visualize your t
 
 ## 📸 Screenshots
 
-![CEO Mode Dashboard](screenshot.png)
+![Main Heatmap Dashboard](screenshot-main.png)
+![CEO Mode Dashboard](screenshot-ceo.png)
 
 ## 🛠️ Installation & Setup
 
