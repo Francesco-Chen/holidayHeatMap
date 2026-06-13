@@ -14,7 +14,7 @@ A lightweight, visually appealing web application to manage and visualize your t
 
 ## 📸 Screenshots
 
-*(Placeholder: You can replace this section with actual screenshots of your app!)*
+![CEO Mode Dashboard](screenshot.png)
 
 ## 🛠️ Installation & Setup
 
