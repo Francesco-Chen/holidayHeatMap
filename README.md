@@ -17,7 +17,17 @@ A lightweight, visually appealing web application to manage and visualize your t
 ![Main Heatmap Dashboard](screenshot-main.png)
 ![CEO Mode Dashboard](screenshot-ceo.png)
 
-## 🛠️ Installation & Setup
+## 🐳 One-Click Deployment (Docker)
+
+The absolute easiest way to run the Holiday Heatmap is using Docker. If you have Docker installed, simply run:
+
+```bash
+docker run -d --name holiday-heatmap -p 8080:80 frunciscus/holiday-heatmap:latest
+```
+
+Then open `http://localhost:8080` in your browser.
+
+## 🛠️ Manual Installation & Setup
 
 1. **Clone the repository:**
    ```bash
